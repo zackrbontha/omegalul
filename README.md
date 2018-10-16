@@ -1,2 +1,2 @@
 # omegalul
-noob learning api
+noob learning apis
