@@ -1,2 +1,2 @@
 # omegalul
-noob learning apis
+noob learning python
