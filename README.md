@@ -1,0 +1,2 @@
+# omegalul
+noob learning api
